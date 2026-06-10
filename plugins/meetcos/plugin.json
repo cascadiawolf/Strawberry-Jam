@@ -1,0 +1,15 @@
+{
+  "name": "Meet cosmo (HARDMODE) autofarm!",
+  "version": "1.0.0",
+  "description": "Farm Meet Cosmo and collect prizes!",
+  "author": "Cascadia",
+  "main": "index.js",
+  "type": "game",
+  "commands": [
+    {
+      "name": "Meetcosmo",
+      "description": "Toggles the Meetcosmo farm. Use 'off' to disable prize filtering."
+    }
+  ],
+  "runInBackground": true
+}
