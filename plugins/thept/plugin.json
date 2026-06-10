@@ -1,0 +1,15 @@
+{
+  "name": "The Phantom Portal",
+  "version": "1.0.0",
+  "description": "Farm The Phantom Portal and collect prizes!",
+  "author": "Cascadia",
+  "main": "index.js",
+  "type": "game",
+  "commands": [
+    {
+      "name": "thept",
+      "description": "Toggles the farm. Use 'off' to disable prize filtering."
+    }
+  ],
+  "runInBackground": true
+}
